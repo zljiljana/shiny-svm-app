@@ -1,4 +1,3 @@
-#library(UsingR)
 library(ggplot2)
 library(e1071)
 
